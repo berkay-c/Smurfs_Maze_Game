@@ -1,4 +1,4 @@
-The Goal Of The Project
+##The Goal Of The Project
 -->Developing a game with an interface called "The Smurfs Maze Game"
 
 
